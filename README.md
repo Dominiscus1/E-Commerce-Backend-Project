@@ -21,11 +21,12 @@
   mysql, express, sequelize, dotenv
 
   ## Preview
-  
+https://user-images.githubusercontent.com/55556978/150089044-c5ff2a4f-bd37-44a7-a824-aa3da0886633.mp4
 
   ## Contributors
   Anthony Jimenez
 
   ## License
+
   This application uses No License license. 
   </br>
